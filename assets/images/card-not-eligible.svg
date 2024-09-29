@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="100px" viewBox="0 0 102 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>414768F6-8A58-4E2A-AE79-45D307B5D669</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 100 102 100 102 0 0 0"></polygon>
+    </defs>
+    <g id="wib3_error_messages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card_Not_Eligible" transform="translate(-105.000000, -155.000000)">
+            <g id="Page-1" transform="translate(105.000000, 155.000000)">
+                <path d="M100.0005,50 C100.0005,77.614 77.6145,100 50.0005,100 C22.3865,100 0.0005,77.614 0.0005,50 C0.0005,22.386 22.3865,0 50.0005,0 C77.6145,0 100.0005,22.386 100.0005,50 Z" id="Fill-1" fill="#ECEBEC"></path>
+                <path d="M78.5025,75.5816 L21.4995,75.5816 C17.3575,75.5816 14.0005,72.2246 14.0005,68.0816 L14.0005,35.0806 C14.0005,30.9396 17.3575,27.5826 21.4995,27.5826 L78.5025,27.5826 C82.6425,27.5826 86.0005,30.9396 86.0005,35.0806 L86.0005,68.0816 C86.0005,72.2246 82.6425,75.5816 78.5025,75.5816" id="Fill-3" fill="#737F89"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <polygon id="Fill-5" fill="#FFFFFF" mask="url(#mask-2)" points="14 46.09 86 46.09 86 37.09 14 37.09"></polygon>
+                <path d="M102,79 C102,88.941 93.941,97 84,97 C74.059,97 66,88.941 66,79 C66,69.059 74.059,61 84,61 C93.941,61 102,69.059 102,79" id="Fill-7" fill="#C42126" mask="url(#mask-2)"></path>
+                <polygon id="Fill-8" fill="#FFFFFF" mask="url(#mask-2)" points="81 90.625 87 90.625 87 85.58 81 85.58"></polygon>
+                <polygon id="Fill-9" fill="#FFFFFF" mask="url(#mask-2)" points="81 82.581 87 82.581 87 67.375 81 67.375"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

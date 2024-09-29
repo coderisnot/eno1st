@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>lock icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M100,50.0008 C100,77.6148 77.612,99.9998 50,99.9998 C22.386,99.9998 0,77.6148 0,50.0008 C0,22.3858 22.386,-0.0002 50,-0.0002 C77.612,-0.0002 100,22.3858 100,50.0008" id="path-1"></path>
+    </defs>
+    <g id="HTTP/S" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Unsecured---HTTPS---Opt2-ND-Copy" transform="translate(-106.000000, -156.000000)">
+            <g id="lock-icon" transform="translate(106.000000, 156.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Fill-1" fill="#F8CC01" xlink:href="#path-1"></use>
+                    <polygon id="Fill-4" fill="#67747F" mask="url(#mask-2)" points="0 100 100 100 100 75 0 75"></polygon>
+                </g>
+                <g id="Group-14" transform="translate(25.000000, 13.000000)">
+                    <path d="M6,19 L12,19 C12,11.82 17.82,6 25,6 C32.18,6 38,11.82 38,19 L38,38 L44,38 L44,19 C44,8.507 35.493,0 25,0 C14.507,0 6,8.507 6,19 Z" id="Fill-6" fill="#344655"></path>
+                    <path d="M5,26 L45,26 C47.761,26 50,28.239 50,31 L50,57 C50,59.761 47.761,62 45,62 L5,62 C2.239,62 0,59.761 0,57 L0,31 C0,28.239 2.239,26 5,26" id="Fill-8" fill="#344655"></path>
+                    <path d="M21,41 C21,38.791 22.791,37 25,37 C27.209,37 29,38.791 29,41 C29,43.209 27.209,45 25,45 C22.791,45 21,43.209 21,41" id="Fill-10" fill="#021829"></path>
+                    <path d="M25,43 L25,43 C25.552,43 26,43.448 26,44 L26,50 C26,50.552 25.552,51 25,51 C24.448,51 24,50.552 24,50 L24,44 C24,43.448 24.448,43 25,43" id="Fill-12" fill="#021829"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
